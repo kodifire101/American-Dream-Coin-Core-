@@ -1,2 +1,2 @@
-# American-Dream-Coin-Core-
+# American Dream Coin 
 Block Chain wallet for American Dream 
